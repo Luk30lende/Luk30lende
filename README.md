@@ -3,7 +3,15 @@
 <h3 align="left">A Frontend Developer & Web Designer</h3>
 
 # 💫 About Me:
-🔭 I am currently working on developing my personal portfolio website to showcase my web design and development projects, while also expanding my skills in frontend technologies and exploring opportunities for collaboration on open-source projects.<br>👯 I’m looking to collaborate on open-source web development projects, innovative software solutions, or any initiatives involving frontend development, API integration, and user experience design.<br>🌱 I’m currently learning I am currently learning advanced JavaScript frameworks like React and Vue.js, as well as deepening my knowledge of API development and cloud services.<br>💬 Ask me about web design, frontend development, API integration, or any tips on building responsive and user-friendly websites.<br>⚡ Fun fact I originally got into coding because I wanted to create my own video game, but along the way, I fell in love with web development and building interactive websites!
+👋 Hi there! I’m a passionate web developer with a knack for crafting visually stunning and user-friendly websites. My journey began with curiosity about technology, and now I’m focused on blending creativity and functionality in every project.
+
+🚀 Currently, I’m sharpening my expertise in modern frontend frameworks like React and Vue.js while diving deeper into backend development and cloud integration to build robust, scalable web solutions.
+
+🤝 I love collaborating on projects that push the boundaries of design and innovation. Whether it’s open-source contributions, building dynamic web applications, or improving user experiences, I’m always up for a challenge.
+
+💡 When I’m not coding, you’ll find me exploring emerging tech trends, brainstorming ideas for apps that solve real-world problems, or recharging with my favorite podcasts on tech and entrepreneurship.
+
+🎯 Let’s connect if you’re passionate about web development, enjoy brainstorming fresh ideas, or have exciting projects in need of a creative touch!
 
 # 🌐 Socials:
 <div align="left">
