@@ -1,5 +1,5 @@
 
-<h1 align="left">Hello 👋, I'm Luke Olende</h1>
+<h1 align="left">Hello 👋, I am Luke Olende</h1>
 <h3 align="left">A Frontend Developer & Web Designer</h3>
 
 # 💫 About Me:
