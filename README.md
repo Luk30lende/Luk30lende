@@ -1,6 +1,6 @@
 
 <h1 align="left">Hello 👋, I am Luke Olende</h1>
-<h3 align="left">A Frontend Developer & Web Designer</h3>
+<h3 align="left">A Frontend Developer </h3>
 
 # 💫 About Me:
 👋 Hi there! I’m a passionate web developer with a knack for crafting visually stunning and user-friendly websites. My journey began with curiosity about technology, and now I’m focused on blending creativity and functionality in every project.
