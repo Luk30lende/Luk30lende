@@ -3,7 +3,7 @@
 <h3 align="left">A Frontend Developer </h3>
 
 # 💫 About Me:
-👋 Hi there! I’m a passionate web developer with a knack for crafting visually stunning and user-friendly websites. My journey began with curiosity about technology, and now I’m focused on blending creativity and functionality in every project.
+👋 Hi there! I am a front-end developer with a passion for creating visually captivating and highly intuitive user experiences. My journey started with a curiosity for technology, and now I specialize in blending design and functionality to build seamless, engaging web interfaces.
 
 🚀 Currently, I’m sharpening my expertise in modern frontend frameworks like React and Vue.js while diving deeper into backend development and cloud integration to build robust, scalable web solutions.
 
