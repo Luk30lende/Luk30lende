@@ -5,7 +5,7 @@
 # 💫 About Me:
 👋 Hi there! I am a front-end developer with a passion for creating visually captivating and highly intuitive user experiences. My journey started with a curiosity for technology, and now I specialize in blending design and functionality to build seamless, engaging web interfaces.
 
-🚀 Currently, I’m sharpening my expertise in modern frontend frameworks like React and Vue.js while diving deeper into backend development and cloud integration to build robust, scalable web solutions.
+🚀 Currently, I’m sharpening my expertise in modern frontend frameworks like React and Vue.js while diving deeper into backend development to build robust, scalable web solutions.
 
 🤝 I love collaborating on projects that push the boundaries of design and innovation. Whether it’s open-source contributions, building dynamic web applications, or improving user experiences, I’m always up for a challenge.
 
